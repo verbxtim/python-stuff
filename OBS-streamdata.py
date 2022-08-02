@@ -1,4 +1,4 @@
-# made to easily find OBS stream key (and send it in a web request)
+# made to easily find OBS stream key and server (and send it in a web request)
 import os
 import json
 import requests
