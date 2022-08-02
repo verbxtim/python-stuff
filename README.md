@@ -1,2 +1,2 @@
 # python-stuff
-python
+things i made in python
